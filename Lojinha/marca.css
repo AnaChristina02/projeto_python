@@ -1,0 +1,113 @@
+.nav{
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgb(28, 175, 211);
+    background-color: black;
+    width: 100%;
+}
+.container-cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.logo{width: 300px;
+    margin-right: 20px;}
+
+body{
+    font-family: 'poopins',sans-serif;
+background-image: url("download.avif");
+}
+details{
+    margin: 10px;
+}
+
+    
+
+.card{
+    border:2px solid rgb(18, 4, 4);
+    padding: 10px;
+    margin:10px;
+    width: 200px; 
+    box-shadow: 5px 4px 3px rgb(28, 175, 211);
+    background-color: rgb(22, 12, 2);
+    background: 222;
+    border-radius:10px ;
+    color: rgb(252, 248, 248);
+}
+
+.Pesquisar{
+    border:2px solid rgb(217, 205, 209);/*cor da borda*/
+    padding: 15px; /*distância do botão para outro*/
+    display: flex;
+    justify-content: right;
+    margin-right:10px;/*tamanho do botão*/
+    /*cor do botão*/
+    color: rgb(175, 175, 91);/*cor do texto no botão*/
+    box-shadow: 5px 3px 3px rgb(212, 201, 201);
+    gap: 10px;
+    backdrop-filter: 10px;
+}
+
+.Comprar{
+    border:2px solid rgb(162, 177, 181);/*cor da borda*/
+    padding: 5px; /*distância do botão para outro*/
+    display: flex;
+    justify-content: right;
+    margin-right:10px;/*tamanho do botão*/
+    background-color: rgb(250, 249, 252);/*cor do botão*/
+    color: rgb(41, 41, 7);/*cor do texto no botão*/
+    box-shadow: 5px 3px 3px rgb(28, 175, 211);
+    gap: 10px;
+    backdrop-filter: 10px;
+}
+.curtir{
+    border:2px solid rgb(127, 209, 236);/*cor da borda*/
+    padding: 5px; /*distância do botão para outro*/
+    display: flex;
+    justify-content: right;
+    margin-right:10px;/*tamanho do botão*/
+    background-color: rgb(89, 45, 203);/*cor do botão*/
+    color: rgb(234, 216, 218);/*cor do texto no botão*/
+    box-shadow: 5px 3px 3px rgb(41, 146, 181) ;
+    gap: 10px;
+    backdrop-filter: 10px;
+}
+
+
+#Título1{
+            color: rgb(73, 197, 213);}
+#Título2{
+            color: rgb(73, 197, 213);}
+#Título3{
+            color: rgb(73, 197, 213);}
+#Título4{
+            color: rgb(73, 197, 213);}
+#Título5{
+            color: rgb(73, 197, 213);}
+#Título6{
+            color: rgb(73, 197, 213);}
+#Título7{
+            color: rgb(73, 197, 213);}
+#Título8{
+            color: rgb(73, 197, 213);}
+#Título9{
+            color: rgb(73, 197, 213);}
+#Título10{
+            color: rgb(73, 197, 213);}
+#Título11{
+            color: rgb(73, 197, 213);}
+#Título12{
+            color: rgb(73, 197, 213);}
+#Título13{
+            color: rgb(73, 197, 213);}
+#Título14{
+            color: rgb(73, 197, 213);}
+#Título15{
+            color: rgb(73, 197,213);}
+
+p{
+    color:rgb(243, 243, 248);
+    font-size:22px;
+    font-style:italic;
+    }
